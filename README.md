@@ -43,6 +43,15 @@ Your contributions are always welcome!
 - Brownie: https://github.com/eth-brownie/brownie
 - Foundry: https://github.com/foundry-rs/foundry
 
+### MVM Applications
+
+- Pando: https://pando.im
+- Quill: https://quill.im
+- Trident: https://thetrident.one
+- Optiondance: https://option.dance
+- Bigone Earn: https://pizza.b1.zone
+- ...
+
 #
 
 <a href="https://mvm.app/"><img align="left" width="160px" src="https://scan.mvm.dev/images/mvm-logo-df43b7ab7c6a8fdcef3cefb89e854f9b.svg"></a>
