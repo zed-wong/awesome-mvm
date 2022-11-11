@@ -1,3 +1,5 @@
+<a href="https://mvm.app/"><img align="right" width="160px" src="https://scan.mvm.dev/images/mvm-logo-df43b7ab7c6a8fdcef3cefb89e854f9b.svg"></a>
+
 # Awesome MVM
 
 A collection of awesome lists for MVM developers.
