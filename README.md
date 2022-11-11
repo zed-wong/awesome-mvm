@@ -1,6 +1,6 @@
 # Awesome MVM
 
-A collection of awesome lists for MVM developers.
+A collection of awesome lists for MVM Mainnet.
 
 Your contributions are always welcome!
 
