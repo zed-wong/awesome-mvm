@@ -36,6 +36,7 @@ Your contributions are always welcome!
   - Tokenlist in defillama format
 - Multicall: https://github.com/zed-wong/mvm-multicall
   - [Multicall contract](https://github.com/mds1/multicall) deployed on MVM mainnet
+- WETH9: [0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015](https://scan.mvm.dev/address/0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015)
 
 ### Smart contract dev tools
 
