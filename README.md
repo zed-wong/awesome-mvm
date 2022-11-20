@@ -54,6 +54,10 @@ Your contributions are always welcome!
 - Bigone Earn: https://pizza.b1.zone
 - ...
 
+### APIs
+
+- GasPriceOracle: https://scan.mvm.dev/api/v1/gas-price-oracle
+
 #
 
 <a href="https://mvm.app/"><img align="left" width="160px" src="https://scan.mvm.dev/images/mvm-logo-df43b7ab7c6a8fdcef3cefb89e854f9b.svg"></a>
