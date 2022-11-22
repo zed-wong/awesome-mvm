@@ -47,11 +47,12 @@ Your contributions are always welcome!
 
 ### MVM Applications
 
-- Pando: https://pando.im
 - Quill: https://quill.im
 - Trident: https://thetrident.one
-- Optiondance: https://option.dance
 - Bigone Earn: https://pizza.b1.zone
+- Pando: https://pando.im
+- Optiondance: https://option.dance
+- MixPay: https://mixpay.me
 - ...
 
 ### APIs
