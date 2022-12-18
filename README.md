@@ -53,6 +53,7 @@ Your contributions are always welcome!
 - Pando: https://pando.im
 - Optiondance: https://option.dance
 - MixPay: https://mixpay.me
+- Murmurs: https://murmurs.io
 - ...
 
 ### APIs
