@@ -51,7 +51,7 @@ Your contributions are always welcome!
 - Trident: https://thetrident.one
 - Bigone Earn: https://pizza.b1.zone
 - Pando: https://pando.im
-- Optiondance: https://option.dance
+- OptionDance: https://option.dance
 - MixPay: https://mixpay.me
 - Murmurs: https://murmurs.io
 - ...
