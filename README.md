@@ -46,6 +46,7 @@ Your contributions are always welcome!
 - Brownie: https://github.com/eth-brownie/brownie
 - Foundry: https://github.com/foundry-rs/foundry
 - Ape: https://github.com/ApeWorX/ape
+- Tenderly(debugger): https://dashboard.tenderly.co/explorer
 
 ### MVM Applications
 
