@@ -38,6 +38,7 @@ Your contributions are always welcome!
   - [Multicall contract](https://github.com/mds1/multicall) deployed on MVM mainnet
 - WETH9: [0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015](https://scan.mvm.dev/address/0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015)
 - ENS Registry: [0x46c43421F7f25221917D3CC4A41d7E2E34D6A0d7](https://scan.mvm.dev/address/0x46c43421F7f25221917D3CC4A41d7E2E34D6A0d7)
+- ENS Resolver: [0x75078E2198733ee223B9AE3338A5b8E7aF613E22](https://scan.mvm.dev/address/0x75078E2198733ee223B9AE3338A5b8E7aF613E22)
 
 ### Smart contract dev tools
 
