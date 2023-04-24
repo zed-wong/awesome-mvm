@@ -15,7 +15,7 @@ Your contributions are always welcome!
 ### Asset Bridge
 
 - Offical: https://bridge.mvm.app  
-  - (source code: https://github.com/YeungKC/mvm-site)
+  - (source code: https://github.com/MixinNetwork/bridge.mvm.app)
 - 3rd party: https://mvg.finance
   - (source code: https://github.com/zed-wong/mvg-bridge)
 
