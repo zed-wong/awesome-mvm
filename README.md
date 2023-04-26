@@ -31,7 +31,6 @@ Your contributions are always welcome!
 - Dirtoracle: https://github.com/fox-one/dirtoracle/
   - Contract address: [0x863dd2756D83B54Da6A37490C5Bedf9c44760314](https://scan.mvm.dev/address/0x863dd2756D83B54Da6A37490C5Bedf9c44760314)
 - Graph node: https://github.com/zed-wong/mvm-graph-node
-  - Status: down, will restart when needed
 - Tokenlist: https://github.com/zed-wong/mvm-tokenlist
   - Tokenlist in defillama format
 - Multicall: https://github.com/zed-wong/mvm-multicall
