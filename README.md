@@ -36,7 +36,7 @@ Your contributions are always welcome!
 - Multicall: https://github.com/zed-wong/mvm-multicall
   - [Multicall contract](https://github.com/mds1/multicall) deployed on MVM mainnet
 - WETH9: [0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015](https://scan.mvm.dev/address/0xBac65f64cd7Ac8a2e71800C504b1E61D8c405015)
-- ENS Registry: [0x157682fa262E96BFC62a0541466B9Db21ABba94D](https://scan.mvm.dev/address/0x157682fa262E96BFC62a0541466B9Db21ABba94D)
+- ENS Registry: [0xB269b926d06186dA332DED7d9229becfdbDA6b72](https://scan.mvm.dev/address/0xB269b926d06186dA332DED7d9229becfdbDA6b72)
 
 ### Smart contract dev tools
 
